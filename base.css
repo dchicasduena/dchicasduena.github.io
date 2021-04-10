@@ -88,6 +88,7 @@ a {
 }
 .content ul {
     list-style-type: none;
+    text-align: center;
     margin: 2px 0 1.5em 0;
     padding: 0 0 0 2em;
     font-size: 12px;
