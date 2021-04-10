@@ -28,7 +28,7 @@ html,
 body {
     -moz-user-select: none;
     -webkit-user-select: none;
-    background-image: url("../dchicasduena.github.io/assets/wallpaper.png");
+    background-image: url("/assets/wallpaper.png");
     background-repeat: repeat;
     margin: 0;
     height: 100%;
